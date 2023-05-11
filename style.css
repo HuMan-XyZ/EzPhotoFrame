@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Wix+Madefor+Text:wght@600&display=swap');
+
+body{
+    background-image:linear-gradient(45deg, rgb(153, 6, 6),rgb(145, 4, 4), red, orangered,rgb(206, 138, 10)) ;
+    color: white;
+    
+
+}
+
+h2{
+    font-family: 'Wix Madefor Text', sans-serif;
+    border: ridge white 3px;
+    width: fit-content;
+    padding: 8px;    
+}
+
+hr{
+width: 60%;
+
+}
